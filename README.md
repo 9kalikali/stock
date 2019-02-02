@@ -1,7 +1,7 @@
 ## Stock Seer 股票价格在线预测工具  
 一个利用 Ruby on Rails 搭建的超轻量级股票价格预测工具， 采用Tushare和LSTM神经网络进行股票数据的获取和预测
 ## Online Demo
-访问[Stock Seer](http://47.92.125.215/)查看在线演示。  
+访问[Stock Seer](...)查看在线演示。  
 ![网站首页](https://github.com/9kalikali/Algorithm_Course/blob/master/Others/demo1.png)
 ![股价预测与评估页面](https://github.com/9kalikali/Algorithm_Course/blob/master/Others/demo2.png)
 测试用账号：
